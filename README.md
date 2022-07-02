@@ -4,7 +4,7 @@
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
-##Github Stats
+## Github Stats
 
 [![yejunho10's github stats](https://github-readme-stats.vercel.app/api?username=yejunho10&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
