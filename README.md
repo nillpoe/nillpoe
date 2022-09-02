@@ -7,6 +7,7 @@
 Hi, There! 👋
 I'm student developer, yejunho10.
 
-> Discord DM Contact: http://web.feather-s.kr/dm/
+> Discord DM Contact: http://feather-s.kr:100/dm/
 > 
-> Toss ID: http://web.feather-s.kr/toss/
+> Toss: http://feather-s.kr:100/toss/
+> Shinhan: http://feather-s.kr:100/shinhan/
