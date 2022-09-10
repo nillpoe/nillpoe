@@ -7,7 +7,7 @@
 Hi, There! 👋
 I'm student developer, yejunho10.
 
-> Discord DM Contact: http://feather-s.kr:100/dm/
+> Discord DM Contact: https://magicplugin.net/r/dm/
 > 
-> Toss: http://feather-s.kr:100/toss/
-> Shinhan: http://feather-s.kr:100/shinhan/
+> Toss: https://magicplugin.net/r/toss/
+> Shinhan: https://magicplugin.net/r/shinhan/
