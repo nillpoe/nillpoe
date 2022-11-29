@@ -1,5 +1,5 @@
-### Github Statistic
-![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
+# Hi, There! ✌️
+I love this place. Soooooooooooo mu-ch !
 
 ## About Me...
 #### Using IDE/Editor
@@ -36,3 +36,6 @@
 ## Account
 - <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://magicplugin.net/r/toss/
 - <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> Shinhan : https://magicplugin.net/r/shinhan/
+
+## Github Statistic
+![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
