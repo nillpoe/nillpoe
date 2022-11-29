@@ -3,7 +3,7 @@
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
 
 ### Contact
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="32px" height="32px"></img> : https://magicplugin.net/r/dm/
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="32px" height="20px"></img> : https://magicplugin.net/r/dm/
 
 > Toss: https://magicplugin.net/r/toss/
 > Shinhan: https://magicplugin.net/r/shinhan/
