@@ -2,8 +2,6 @@
 
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
 
-![스포티파이](http://nowplayi.ng/playing.php#)
-
 > Discord DM Contact: https://magicplugin.net/r/dm/
 > 
 > Toss: https://magicplugin.net/r/toss/
