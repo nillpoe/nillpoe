@@ -3,9 +3,9 @@
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
 
 ### Contact
-- <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="30px" height="23px"> : https://magicplugin.net/r/dm/
+- <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="18px" height="18px"> Discord : https://magicplugin.net/r/dm/
 
 
 ### Banks
-- <img src="https://toss.im/favicon.ico" width="23px" height="23px" style="margin: auto"> : https://magicplugin.net/r/toss/
-- <img src="https://image.shinhan.com/favicon.ico" width="23px" height="23px"> : https://magicplugin.net/r/shinhan/
+- <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://magicplugin.net/r/toss/
+- <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> Shinhan : https://magicplugin.net/r/shinhan/
