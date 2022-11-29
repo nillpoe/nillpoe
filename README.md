@@ -7,5 +7,5 @@
 
 
 ### Banks
-- <img src="https://toss.im/favicon.ico" width="23px" height="23px"> : https://magicplugin.net/r/toss/
+- <img src="https://toss.im/favicon.ico" width="23px" height="23px" style="margin: auto"> : https://magicplugin.net/r/toss/
 - <img src="https://image.shinhan.com/favicon.ico" width="23px" height="23px"> : https://magicplugin.net/r/shinhan/
