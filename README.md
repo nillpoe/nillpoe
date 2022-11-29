@@ -1,5 +1,5 @@
 # Hi, There! ✌️
-I love this place. Soooooooooooo mu-ch !
+I love this place. Soooooooooooo much !
 
 ## About Me...
 #### Using IDE/Editor
