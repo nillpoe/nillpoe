@@ -1,5 +1,5 @@
 # Hi, There! ✌️
-I love this place. Soooooooooooo much !
+I love coding
 
 ---
 
@@ -37,7 +37,7 @@ I love this place. Soooooooooooo much !
 - <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="18px" height="18px"> Discord : https://discord.com/users/1039809905537859615
 
 ## Account
-- <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://toss.me/yejungo10
+- <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://toss.me/yejunho10
 - <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> Shinhan : https://mysol.id/yejunho10
 
 ---
