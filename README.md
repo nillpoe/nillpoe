@@ -34,11 +34,11 @@ I love this place. Soooooooooooo much !
 ---
 
 ## Contact
-- <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="18px" height="18px"> Discord : https://magicplugin.net/r/dm/
+- <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="18px" height="18px"> Discord : https://discord.com/users/1039809905537859615
 
 ## Account
-- <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://magicplugin.net/r/toss/
-- <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> Shinhan : https://magicplugin.net/r/shinhan/
+- <img src="https://toss.im/favicon.ico" width="18px" height="18px"> Toss : https://toss.me/yejungo10
+- <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> Shinhan : https://mysol.id/yejunho10
 
 ---
 
