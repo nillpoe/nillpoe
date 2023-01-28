@@ -42,5 +42,8 @@ I love coding
 
 ---
 
-## Github Statistic
+## Github
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
+[![사용한언어](https://github-readme-stats.vercel.app/api/top-langs/?username=yejunho10&langs_count=5)](https://github.com/yejunho10)
+[![ST-Core](https://github-readme-stats.vercel.app/api/pin/?username=StarlyStore&repo=ST-Core)](https://github.com/StarlyStore/ST-Core)
+[![MagicServer](https://github-readme-stats.vercel.app/api/pin/?username=MagicPluginTeam&repo=MagicServer)](https://github.com/MagicPluginTeam/MagicServer)
