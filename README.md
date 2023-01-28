@@ -44,6 +44,6 @@ I love coding
 
 ## Github
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
-[![사용한언어](https://github-readme-stats.vercel.app/api/top-langs/?username=yejunho10&langs_count=5)](https://github.com/yejunho10)
-[![ST-Core](https://github-readme-stats.vercel.app/api/pin/?username=StarlyStore&repo=ST-Core)](https://github.com/StarlyStore/ST-Core)
-[![MagicServer](https://github-readme-stats.vercel.app/api/pin/?username=MagicPluginTeam&repo=MagicServer)](https://github.com/MagicPluginTeam/MagicServer)
+[![사용한언어](https://github-readme-stats.vercel.app/api/top-langs/?username=yejunho10&langs_count=5&theme=transparent)](https://github.com/yejunho10)
+[![ST-Core](https://github-readme-stats.vercel.app/api/pin/?username=StarlyStore&repo=ST-Core&theme=transparent)](https://github.com/StarlyStore/ST-Core)
+[![MagicServer](https://github-readme-stats.vercel.app/api/pin/?username=MagicPluginTeam&repo=MagicServer&theme=transparent)](https://github.com/MagicPluginTeam/MagicServer)
