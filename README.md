@@ -3,11 +3,6 @@ I love coding
 
 ---
 
-## About Me...
-중삐리 개발자요
-
----
-
 ## Contact
 - <img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" width="18px" height="18px"> Discord : https://discord.com/users/1039809905537859615
 
@@ -20,5 +15,3 @@ I love coding
 ## Github
 ![깃헙](https://github-readme-stats.vercel.app/api?username=yejunho10&count_private=true&show_icons=true&theme=transparent)
 [![사용한언어](https://github-readme-stats.vercel.app/api/top-langs/?username=yejunho10&langs_count=5&theme=transparent)](https://github.com/yejunho10)
-[![ST-Core](https://github-readme-stats.vercel.app/api/pin/?username=StarlyStore&repo=ST-Core&theme=transparent)](https://github.com/StarlyStore/ST-Core)
-[![MagicServer](https://github-readme-stats.vercel.app/api/pin/?username=MagicPluginTeam&repo=MagicServer&theme=transparent)](https://github.com/MagicPluginTeam/MagicServer)
