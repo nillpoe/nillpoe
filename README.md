@@ -11,7 +11,7 @@
 - <img src="https://image.shinhan.com/favicon.ico" width="18px" height="18px"> 신한은행: 110-352-976466
 - <img src="https://toss.im/favicon.ico" width="18px" height="18px"> 토스뱅크: 1908-5319-8838
 - <img src="https://kakaobank.com/static/images/m/main/img-mweb-ico-3@2x.png" width="18px" height="18px"> 카카오뱅크: 7777-02-9186534
-- <img src="https://www.standardchartered.co.kr/np/assets/images/kr/base/sc_logo_mb.png" width="13px" height="18px">   SC제일은행: 617-20-203484
+- <img src="https://www.standardchartered.co.kr/np/assets/images/kr/base/sc_logo_mb.png" width="13px" height="18px"> SC제일은행: 617-20-203484
 
 ---
 
