@@ -8,6 +8,6 @@
 
 <img
   src="https://render.gitanimals.org/farms/yejunho10"
-  width="600"
+  width="850"
   height="300"
 />
