@@ -1,4 +1,3 @@
-# I'm doing Java things, currently learning on Kotlin.
 <img
   src="https://render.gitanimals.org/farms/nillpoe"
   width="600"
