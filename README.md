@@ -1,5 +1,6 @@
-<h1> Hi there👋 I'm NillPoe. </h1>
+<h1> Hi, I'm NillPoe👋 </h1>
 
+- 🙋‍♂️ We're looking for part-time **Next.js Developer** to work remotely!
 - 📫 Reach me in
   <a href="https://t.me/nillpoe"><img alt="Telegram Chat" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&labelColor=gray"></a>
   or
