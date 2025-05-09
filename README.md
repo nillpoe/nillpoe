@@ -4,9 +4,6 @@ I am a Korean software engineer.
 
 I love Kotlin, and like to contribute to open-source projects in my free time. I spend too much time on GitHub, so you might find interesting things in my starred projects.
 
-### 🙋‍♂️ I'm looking for...
-- Part-Time **Next.js Developer** to Work Remotely!
-
 ### 🔗 Reach me in
 - <a href="https://t.me/nillpoe"><img alt="Telegram Chat" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&labelColor=gray"></a>
 - <a href="https://discord.com/users/1102166553027432488"><img alt="Discord Chat" src="https://img.shields.io/badge/Discord-Chat-blue?logo=discord&labelColor=gray"></a>  
