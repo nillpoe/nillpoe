@@ -14,7 +14,7 @@ I will never use AI to code or write. [See why](https://antman-does-software.com
 I regularly donate to [Open Net Korea](https://www.opennet.or.kr/).
 
 ### 🔗 Connect With Me
-- **Email:** [`nillpoe@pm.me`](mailto:nillpoe@pm.me)
+- **Email:** [`nillpoe@purelymail.com`](mailto:nillpoe@purelymail.com) [PGP Keys](https://keys.openpgp.org/search?q=nillpoe@purelymail.com)
 - **Discord:** [`@nillpoe`](https://discord.com/users/1102166553027432488)
 - **Telegram:** [`@nillpoe`](https://t.me/nillpoe)
 
