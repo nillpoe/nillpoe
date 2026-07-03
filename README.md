@@ -10,7 +10,7 @@ I am a Korean software engineer.
 I love Kotlin, and like to contribute to open-source projects in my free time.  
 I spend too much time on GitHub, so you might find interesting things in my starred repositories.
 
-I will never use AI to code or write. [See why](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)  
+I will never use AI-generated to code or writing. [See why](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write)  
 I regularly donate to [Open Net Korea](https://www.opennet.or.kr/).
 
 ### 🔗 Connect With Me
