@@ -10,8 +10,6 @@ I am a Korean software engineer.
 I love Kotlin, and like to contribute to open-source projects in my free time.  
 I spend too much time on GitHub, so you might find interesting things in my starred repositories.
 
-I never use AI-generated to code or writing. Here's [why](https://antman-does-software.com/i-will-never-use-ai-to-code-or-write).
-
 ### 🔗 Connect With Me
 - **Email:** [`nillpoe@purelymail.com`](mailto:nillpoe@purelymail.com) [PGP Keys](https://keys.openpgp.org/search?q=nillpoe@purelymail.com)
 - **Discord:** [`@nillpoe`](https://discord.com/users/1102166553027432488)
